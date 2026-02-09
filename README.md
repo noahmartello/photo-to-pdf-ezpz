@@ -25,11 +25,7 @@ Most converters are bloated or locked behind paywalls. This project keeps it sim
 
 ## Preview
 
-Add a screenshot or screen recording here:
-
-```text
-docs/preview.png
-```
+![App preview](docs/preview.png)
 
 ## Demo / Run Locally
 
